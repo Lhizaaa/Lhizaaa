@@ -162,6 +162,4 @@ const lhizaa = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:8b5cf6,100:6d28d9&section=footer" alt="footer"/>
 
-⭐️ Terima kasih sudah mampir!
-
 </div>
