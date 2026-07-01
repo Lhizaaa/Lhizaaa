@@ -50,11 +50,8 @@ const lhizaa = {
 <!-- ====================== TECH ARSENAL ====================== -->
 ## 🧰 Tech Arsenal
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
 **🎨 Design**
+
 <p>
 <img src="https://img.shields.io/badge/Figma-1a1b27?style=flat-square&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Photoshop-1a1b27?style=flat-square&logo=adobephotoshop&logoColor=31A8FF"/>
@@ -66,6 +63,7 @@ const lhizaa = {
 </p>
 
 **💻 Languages**
+
 <p>
 <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
@@ -76,10 +74,8 @@ const lhizaa = {
 <img src="https://img.shields.io/badge/R-1a1b27?style=flat-square&logo=r&logoColor=276DC3"/>
 </p>
 
-    </td>
-    <td valign="top" width="50%">
-
 **🧩 Framework & Tools**
+
 <p>
 <img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Bootstrap-1a1b27?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
@@ -88,12 +84,14 @@ const lhizaa = {
 </p>
 
 **🗄️ Database**
+
 <p>
 <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-1a1b27?style=flat-square&logo=phpmyadmin&logoColor=6C78AF"/>
 </p>
 
 **☁️ Hosting & Cloud**
+
 <p>
 <img src="https://img.shields.io/badge/AWS-1a1b27?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Vercel-1a1b27?style=flat-square&logo=vercel&logoColor=ffffff"/>
@@ -103,14 +101,11 @@ const lhizaa = {
 </p>
 
 **🔧 Version Control**
+
 <p>
 <img src="https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=ffffff"/>
 </p>
-
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -119,10 +114,7 @@ const lhizaa = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lhizaaa&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lhizaaa&hide_border=true&background=0d1117&stroke=8b5cf6&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhizaaa&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs"/>
 
 </div>
 
