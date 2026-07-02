@@ -23,7 +23,6 @@
 <a href="https://github.com/Lhizaaa?tab=followers">
   <img src="https://img.shields.io/github/followers/Lhizaaa?label=Followers&style=flat-square&color=06b6d4&labelColor=1a1b27" alt="followers"/>
 </a>
-<img src="https://img.shields.io/badge/Based%20in-Yogyakarta%2C%20ID-06b6d4?style=flat-square&labelColor=1a1b27" alt="location"/>
 
 </div>
 
