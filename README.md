@@ -67,7 +67,6 @@ const lhizaa = {
 <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/PHP-1a1b27?style=flat-square&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/C++-1a1b27?style=flat-square&logo=cplusplus&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/HTML5-1a1b27?style=flat-square&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-1a1b27?style=flat-square&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/R-1a1b27?style=flat-square&logo=r&logoColor=276DC3"/>
