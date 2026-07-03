@@ -54,7 +54,6 @@ const lhizaa = {
 <img src="https://img.shields.io/badge/Illustrator-1a1b27?style=flat-square&logo=adobeillustrator&logoColor=FF9A00"/>
 <img src="https://img.shields.io/badge/After%20Effects-1a1b27?style=flat-square&logo=adobeaftereffects&logoColor=9999FF"/>
 <img src="https://img.shields.io/badge/Premiere%20Pro-1a1b27?style=flat-square&logo=adobepremierepro&logoColor=9999FF"/>
-<img src="https://img.shields.io/badge/Blender-1a1b27?style=flat-square&logo=blender&logoColor=F5792A"/>
 <img src="https://img.shields.io/badge/Canva-1a1b27?style=flat-square&logo=canva&logoColor=00C4CC"/>
 </p>
 
