@@ -36,8 +36,7 @@ const lhizaa = {
   name:        "Luqman Hakim Ar-Razi",
   alias:       "Lhizaa",
   role:        ["Frontend Developer", "Game Developer"],
-  study:       "Universitas Islam Indonesia",
-  location:    "Yogyakarta, Indonesia 🇮🇩",
+  location:    "Indonesia 🇮🇩",
   learning:    ["Game Design", "Interactive Animation", "Clean Frontend Architecture"],
 };
 ```
