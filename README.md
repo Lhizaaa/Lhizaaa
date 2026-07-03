@@ -14,7 +14,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/Lhizaaa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Membangun+antarmuka+yang+mulus+%26+responsif;Bikin+game+dari+ide+random+jam+2+pagi+%F0%9F%8E%AE;Ngoding+kopi+belum+habis+%E2%98%95;Selalu+penasaran+sama+hal+baru+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=(JMK 48)+Jenius+Mandiri+Kreatif+48;Bikin+game+dari+ide+random+jam+2+pagi+%F0%9F%8E%AE;Ngoding+ngopi+sambil+coding+%E2%98%95;Selalu+penasaran+sama+hal+baru+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
