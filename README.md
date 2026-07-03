@@ -14,7 +14,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/Lhizaaa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=JMK 48+Jenius+Mandiri+Kreatif+48;Bikin+game+dari+ide+random+jam+2+pagi+%F0%9F%8E%AE;Ngoding+ngopi+sambil+coding+%E2%98%95;Selalu+penasaran+sama+hal+baru+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Membangun+antarmuka+yang+mulus+%26+responsif;Bikin+game+dari+ide+random+jam+2+pagi+%F0%9F%8E%AE;Ngoding+ngopi+sambil+coding+%E2%98%95;Selalu+penasaran+sama+hal+baru+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,9 +38,7 @@ const lhizaa = {
   role:        ["Frontend Developer", "Game Developer"],
   study:       "Universitas Islam Indonesia",
   location:    "Yogyakarta, Indonesia 🇮🇩",
-  currently:   "membangun UI yang mulus & bikin game yang seru dimainkan",
   learning:    ["Game Design", "Interactive Animation", "Clean Frontend Architecture"],
-  funFact:     "kode terbaik itu bukan yang paling pintar, tapi yang paling gampang dibaca",
 };
 ```
 
@@ -148,7 +146,7 @@ const lhizaa = {
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
 
-> *"Jenius Mandiri Kreatif 48."*
+> *"Jenius Mandiri Kreatif 48"*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:8b5cf6,100:6d28d9&section=footer" alt="footer"/>
 
