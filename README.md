@@ -10,7 +10,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6d28d9,50:8b5cf6,100:06b6d4&text=Luqman%20Hakim%20Ar-Razi&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Game%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6d28d9,50:8b5cf6,100:06b6d4&text=Luqman%20Hakim%20Ar-Razi&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Frontend%20Web%20Developer%20%C2%B7%20Game%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/Lhizaaa">
@@ -35,7 +35,7 @@
 const lhizaa = {
   name:        "Luqman Hakim Ar-Razi",
   alias:       "Lhizaa",
-  role:        ["Frontend Developer", "Game Developer"],
+  role:        ["Frontend Web Developer", "Game Developer"],
   location:    "Indonesia 🇮🇩",
   learning:    ["Game Design", "Interactive Animation", "Clean Frontend Architecture"],
 };
