@@ -38,6 +38,7 @@ const lhizaa = {
   role:        ["Frontend Web Developer", "Game Developer"],
   location:    "Indonesia 🇮🇩",
   learning:    ["Game Design", "Interactive Animation", "Clean Frontend Architecture"],
+  caption:     "(JMK 48) Jenius Mandiri Kreatif 48",
 };
 ```
 
