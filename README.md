@@ -20,7 +20,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Lhizaaa&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/badge/Based%20in-Indonesia%2C%20ID-06b6d4?style=flat-square&labelColor=1a1b27" alt="location"/>
+<img src="https://img.shields.io/badge/Based%20in-Indonesia-06b6d4?style=flat-square&labelColor=1a1b27" alt="location"/>
 
 </a>
 
