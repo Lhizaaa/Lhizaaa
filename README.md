@@ -20,8 +20,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Lhizaaa&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="views"/>
-<a href="https://github.com/Lhizaaa?tab=followers">
-  <img src="https://img.shields.io/github/followers/Lhizaaa?label=Followers&style=flat-square&color=06b6d4&labelColor=1a1b27" alt="followers"/>
+
 </a>
 
 </div>
