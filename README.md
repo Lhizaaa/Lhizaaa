@@ -71,6 +71,7 @@ const lhizaa = {
 **🧩 Framework & Tools**
 
 <p>
+<img src="https://img.shields.io/badge/React.js-1a1b27?style=flat-square&logo=React.js&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Bootstrap-1a1b27?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
 <img src="https://img.shields.io/badge/WordPress-1a1b27?style=flat-square&logo=wordpress&logoColor=21759B"/>
@@ -83,6 +84,7 @@ const lhizaa = {
 <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-1a1b27?style=flat-square&logo=phpmyadmin&logoColor=6C78AF"/>
 <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=Docker&logoColor=6C78AF"/>
+<img src="https://img.shields.io/badge/Supabase-1a1b27?style=flat-square&logo=Supabase&logoColor=00C7B7"/>
 </p>
 
 **☁️ Hosting & Cloud**
