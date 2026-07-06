@@ -82,6 +82,7 @@ const lhizaa = {
 <p>
 <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-1a1b27?style=flat-square&logo=phpmyadmin&logoColor=6C78AF"/>
+<img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=Docker&logoColor=6C78AF"/>
 </p>
 
 **☁️ Hosting & Cloud**
