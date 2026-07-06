@@ -71,7 +71,7 @@ const lhizaa = {
 **🧩 Framework & Tools**
 
 <p>
-<img src="https://img.shields.io/badge/Tailwind-1a1b27?style=flat-square&logo=Tailwind&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-1a1b27?style=flat-square&logo=TailwindCSS&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=React&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Bootstrap-1a1b27?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
