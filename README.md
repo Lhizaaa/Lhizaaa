@@ -93,7 +93,6 @@ const lhizaa = {
 <p>
 <img src="https://img.shields.io/badge/AWS-1a1b27?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Vercel-1a1b27?style=flat-square&logo=vercel&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Netlify-1a1b27?style=flat-square&logo=netlify&logoColor=00C7B7"/>
 <img src="https://img.shields.io/badge/Cloudflare-1a1b27?style=flat-square&logo=cloudflare&logoColor=F38020"/>
 <img src="https://img.shields.io/badge/GitHub%20Pages-1a1b27?style=flat-square&logo=githubpages&logoColor=ffffff"/>
 </p>
